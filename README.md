@@ -37,4 +37,4 @@ absorb new ideas and can communicate clearly and effectively.</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterharper&show_icons=true&locale=en&layout=compact" alt="monsterharper" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsterharper&show_icons=true&locale=en" alt="monsterharper" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=monsterharper&show_icons=true&locale=en" alt="monsterharper" /></p>
