@@ -26,8 +26,9 @@ absorb new ideas and can communicate clearly and effectively.</p>
 
   - 📫 How to reach me **sarveshthapa@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/sarvesh-thapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="sarvesh-thapa" height="30" width="40" /></a>
 <a href="https://kaggle.com/sarveshthapa" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="sarveshthapa" height="30" width="40" /></a>
 <a href="https://instagram.com/sarvesh_kumar_thapa" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sarvesh_kumar_thapa" height="30" width="40" /></a>
