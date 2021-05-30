@@ -1,6 +1,6 @@
 # About_me
 <h1 align="center">Hi 👋, I'm Sarvesh Kumar Thapa</h1>
-![sarvesh-error](/sarvesh.jpg)
+![sarvesh-error](/sarvesh.png)
 <h3 align="center">A passionate Data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monsterharper&label=Profile%20views&color=0e75b6&style=flat" alt="monsterharper" /> </p>
