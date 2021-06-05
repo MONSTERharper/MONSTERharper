@@ -22,7 +22,7 @@ absorb new ideas and can communicate clearly and effectively.</p>
 
   - 💬 Ask me about **Python,ML and Statistics**
 
-  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10QuP6P1k0Q5gxq6lElUsOS7lKwfyJfS6/view?usp=sharing)
+  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hNIKKo9BAatZxyjsp-opGJMaRbKQg9S_/view?usp=sharing)
 
   - 📫 How to reach me **sarveshthapa@gmail.com**
 <br>
