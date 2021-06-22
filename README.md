@@ -1,7 +1,6 @@
 # About_me
 <h1 align="center">Hi 👋, I'm Sarvesh Kumar Thapa</h1>
 <figure>
-  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/MONSTERharper/MONSTERharper/main/sarvesh.png" width="400" height="520" />
   <figcaption>👈 Thats me,🙂</figcaption>
 </figure>
 <h3 align="center">AN ASPIRING DATA SCIENTIST</h3>
