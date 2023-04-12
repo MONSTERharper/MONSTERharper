@@ -3,7 +3,7 @@
 <figure>
   <figcaption>👈 Thats me,🙂</figcaption>
 </figure>
-<h3 align="center">AN ASPIRING DATA SCIENTIST</h3>
+<h3 align="center">DATA Analyst</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=monsterharper&label=Profile%20views&color=0e75b6&style=flat" alt="monsterharper" /> </p>
 <p align="center">A self-motivated data analyst with excellent
 organizational skills, highly efficient and a good eye for
