@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Kumar Thapa</h1>
-<h3 align="center">Lead Data Analyst · Data Engineering & Generative AI</h3>
+<h3 align="center">Lead Data Analyst | Data Engineering & Generative AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=monsterharper&label=Profile%20views&color=0e75b6&style=flat" alt="monsterharper" />
@@ -9,8 +9,8 @@
 Lead Data Analyst with 5+ years turning large-scale, messy data into reliable pipelines,
 analytics, and decisions. I build real-time and batch data platforms on GCP (BigQuery,
 Dataflow, Pub/Sub) with Kafka, PySpark and Apache Beam, design dimensional data models and
-star-schema warehouses, and increasingly ship Generative AI &amp; LLM systems — RAG, semantic
-vector search, and agentic frameworks. Currently leading data &amp; analytics for Digital
+star-schema warehouses, and increasingly ship Generative AI &amp; LLM systems such as RAG,
+semantic vector search, and agentic frameworks. Currently leading data &amp; analytics for Digital
 Pathology 2.0, where my work powers products processing TBs of pathology scan data.
 A quick learner who communicates clearly, I care about clean data, reproducible results,
 and insights people can act on.
@@ -28,7 +28,7 @@ and insights people can act on.
 
 - 🏆 Named inventor on **3 granted + 1 pending USPTO patents** · 2× **"Data Whisperer Award"**
 
-- 📄 Know about my experiences → [Resume](https://drive.google.com/file/d/1hNIKKo9BAatZxyjsp-opGJMaRbKQg9S_/view?usp=sharing)
+- 📄 Know about my experiences → [Resume](https://drive.google.com/file/d/1yOALFnJM_vffl1MCmJr-zYl5sISEjtks/view?usp=sharing)
 
 - 📫 How to reach me → **sarveshthapa@gmail.com**
 
@@ -36,9 +36,10 @@ and insights people can act on.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarvesh-thapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="sarvesh-thapa" height="30" width="40" /></a>
-<a href="https://kaggle.com/sarveshthapa" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="sarveshthapa" height="30" width="40" /></a>
-<a href="https://instagram.com/sarvesh_kumar_thapa" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sarvesh_kumar_thapa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarvesh-thapa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://kaggle.com/sarveshthapa" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://instagram.com/sarvesh_kumar_thapa" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:sarveshthapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
